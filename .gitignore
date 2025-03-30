@@ -1,0 +1,20 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# Mac files
+.DS_Store
+
+# Ignore appsettings.json to avoid committing secrets
+appsettings.json
+appsettings.*.json
